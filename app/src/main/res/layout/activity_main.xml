@@ -11,8 +11,6 @@
     <!--when you press this button it will
         convert text into speech-->
 
-    <!--To display the name of GeeksForGeeks -->
-
     <EditText
         android:id="@+id/Text"
         android:layout_width="match_parent"
